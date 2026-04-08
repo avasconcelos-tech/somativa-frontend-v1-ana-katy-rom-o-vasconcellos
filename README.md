@@ -16,7 +16,8 @@ O projeto foi organizado seguindo boas práticas de mercado: /
 └── images/ (Ativos visuais)
 
 🚀 Funcionalidades Implementadas
-Interatividade Visual: Elementos que reagem ao passar do mouse um exemplo é o destaque dp chef (Hover e manipulação de Classes).
+
+Interatividade Visual: Elementos que reagem ao passar do mouse um exemplo é o destaque do chef (Hover e manipulação de Classes).
 Saudação Dinâmica: Mensagem de boas-vindas que muda conforme o horário local do usuário utilizado na recepção do cliente.
 Cálculo em Tempo Real: Formulário que processa e exibe resultados assim que o usuário digita assim como, demosntrado na sessão montar pizza.
 Injeção de Conteúdo: Adição de novos itens na tela utilizando manipulação de DOM.
